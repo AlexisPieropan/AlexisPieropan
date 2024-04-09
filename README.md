@@ -11,7 +11,7 @@
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexis-pieropan-6b494a238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexis-pieropan-6b494a238" height="30" width="40" /></a>
-  <a href="https://instagram.com/https://www.instagram.com/alexispieropan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alexispieropan/" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/alexispieropan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alexispieropan/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y Herramientas Que Manejo:</h3>
